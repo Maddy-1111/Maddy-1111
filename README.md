@@ -1,4 +1,11 @@
-### Hi there 👋
+# About Me
+
+- 🌱 I’m currently learning Electrical Engineering at IIT-Madras
+- 👯 I’m looking to collaborate on some small projects
+- 💬 Ask me about anything
+- 📫 How to reach me: E-mail - madsmasher11@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'll cook up something eventually
 
 <!--
 **Maddy-1111/Maddy-1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
